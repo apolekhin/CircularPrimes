@@ -1,0 +1,6 @@
+C:\Users\bazar\Desktop\BACKEND\Triangle\FindAllPrime\FindAllPrime\bin\Debug\FindAllPrime.exe.config
+C:\Users\bazar\Desktop\BACKEND\Triangle\FindAllPrime\FindAllPrime\bin\Debug\FindAllPrime.exe
+C:\Users\bazar\Desktop\BACKEND\Triangle\FindAllPrime\FindAllPrime\bin\Debug\FindAllPrime.pdb
+C:\Users\bazar\Desktop\BACKEND\Triangle\FindAllPrime\FindAllPrime\obj\Debug\FindAllPrime.exe
+C:\Users\bazar\Desktop\BACKEND\Triangle\FindAllPrime\FindAllPrime\obj\Debug\FindAllPrime.pdb
+C:\Users\bazar\Desktop\BACKEND\Triangle\FindAllPrime\FindAllPrime\obj\Debug\FindAllPrime.csprojResolveAssemblyReference.cache
